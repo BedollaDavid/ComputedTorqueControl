@@ -9,6 +9,6 @@ Computed torque control on Simscape Simulink
 - A README.TXT file to run simulations on Matlab 2019b
 
 
-![grab-landing-page](https://github.com/BedollaDavid/standardSMC/blob/main/2GDL.gif)
+![grab-landing-page](https://github.com/BedollaDavid/ComputedTorqueControl/blob/main/3GDL.gif)
 
 Contains "pol3" and "pol5" functions from "Iván Maza 2001" for trajectory generation.
